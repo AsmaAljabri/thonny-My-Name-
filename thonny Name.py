@@ -1,3 +1,3 @@
 print(" Asma")
-print(" wellcome")
+print(" welcome")
 
