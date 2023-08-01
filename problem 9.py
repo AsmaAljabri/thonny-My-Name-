@@ -1,4 +1,4 @@
-# enter the input from the user
+# enter the input from the user problem 9
 num_dig_arr = int(input("Enter the number of digits in the array: "))
 arr = list(map(int, input("Enter the elements of the array (space-separated): ").split()))
 quss_num = int(input("Enter the number of questions: "))

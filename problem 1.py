@@ -1,4 +1,4 @@
-# The inputs are in single line containing the two integers a and b.
+# The inputs are in single line containing the two integers a and b.problem 1
 # ysing the inputs s and t the user enter to calculate the Distance = speed ∗ time
 
 

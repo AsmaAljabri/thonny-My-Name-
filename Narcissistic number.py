@@ -1,5 +1,5 @@
 
-
+# narcissistic number
 # Take the input number as an string 
 # Convert the number to a integer 
 # Calculate the number of digits in the number example : 153 = 1*3+ 5*3 + 3*3= 153 = nar num

@@ -1,4 +1,4 @@
-
+# problem 7
 
 n = int( input("please enter the number of the subjects = "))
 x = int( input("please enter the number of days for each subject  = "))

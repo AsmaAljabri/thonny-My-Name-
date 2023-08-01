@@ -1,5 +1,6 @@
 
 """
+broblem 4
 in this problem, is to make a proggram to calculate the number of files times the capacity of each if it is the answer will be equal to the 
 computer storage 
 by asking the user to enter the inputs X (computer storage), n (number of file), y (capacity of the file) 

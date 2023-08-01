@@ -1,4 +1,4 @@
- # The inputs are in single line containing the two integers a and b.
+ # The inputs are in single line containing the two integers a and b. problrm 5
  # using import math to calculate the gcd of the of both inputs
  
 import math
